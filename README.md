@@ -56,8 +56,8 @@ Hexagonal Architecture:
 
 Database Setup:
 Schema:
-  sql
-  CREATE TABLE prices (
+sql
+CREATE TABLE prices (
   id BIGINT AUTO_INCREMENT PRIMARY KEY,
   brand_id BIGINT NOT NULL,
   product_id BIGINT NOT NULL,
