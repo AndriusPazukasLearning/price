@@ -1,4 +1,4 @@
-Application PRICES
+Application PRICES:
 
 Hexagonal Spring Boot Application for Dynamic Pricing
 
