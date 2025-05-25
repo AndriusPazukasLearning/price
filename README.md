@@ -1,6 +1,7 @@
 Application PRICES
 
 Hexagonal Spring Boot Application for Dynamic Pricing
+
 Spring Boot 3.1.5;
 Java 17
 
