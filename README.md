@@ -55,9 +55,9 @@ Hexagonal Architecture:
   Adapters:   PriceController (REST adapter), JpaPriceRepository (DB adapter)
 
 Database Setup:
-   Schema:
-   sql
-   CREATE TABLE prices (
+Schema:
+  sql
+  CREATE TABLE prices (
   id BIGINT AUTO_INCREMENT PRIMARY KEY,
   brand_id BIGINT NOT NULL,
   product_id BIGINT NOT NULL,
